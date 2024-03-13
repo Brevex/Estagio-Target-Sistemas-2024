@@ -13,9 +13,9 @@
    <li>Com o terminal aberto, insira os comandos em sequência:</li>
 </ol>
 
- 	javac TreeProgram.java  
+ 	javac Main.java  
 <br>
 
-	java TreeProgram
+	java Main
 
 <br><h3 align = "center"> - By <a href = "https://www.linkedin.com/in/breno-barbosa-de-oliveira-810866275/" target = "_blank">Breno</a> - </h3>
