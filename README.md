@@ -9,7 +9,7 @@
 <ol>
    <li>Faça o download do JDK <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank">clickando aqui</a>.</li>
    <li>Configure o JDK em sua máquina</li>
-   <li>Faça o download do projeto e abra o terminal em <code>/src/main/java/org/example/</code>.</li>
+   <li>Faça o download do projeto e abra o terminal em <code>/src</code>.</li>
    <li>Com o terminal aberto, insira os comandos em sequência:</li>
 </ol>
 
