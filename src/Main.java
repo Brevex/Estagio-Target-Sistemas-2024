@@ -1,5 +1,3 @@
-package org.example;
-
 import java.util.Scanner;
 
 public class Main
@@ -16,12 +14,28 @@ public class Main
         System.out.println("\nRetorno da questao 1: " + retornoSoma);
         System.out.print("\nInsira um numero: ");
 
-        int numFibonacci = scanner.nextInt();
+        int numFibonacci = 0;
+
+        while (true)
+        {
+            try
+            {
+                numFibonacci = scanner.nextInt();
+                break;
+            }
+            catch (java.util.InputMismatchException e)
+            {
+                System.out.print("Entrada invalida! Insira um numero: ");
+                scanner.next();
+            }
+        }
 
         if (estaEmFibonacci(numFibonacci))
         {
             System.out.println("O numero " + numFibonacci + " esta em Fibonacci!");
-        } else {
+        }
+        else
+        {
             System.out.println("O numero " + numFibonacci + " nao esta em Fibonacci.");
         }
 
