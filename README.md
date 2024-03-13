@@ -1,4 +1,4 @@
-<h1 align = "center"> Estágio Ribeirão Preto - 2024 </h1><br>
+<h1 align = "center"> Estágio Target Sistemas - 2024 </h1><br>
 
 <h2> &#128269; Sobre </h2>
 
